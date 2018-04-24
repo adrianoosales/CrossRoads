@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>SwiftVersion</key>
+	<string>4.0</string>
+	<key>ImageReference</key>
+	<string>Logo_Theme.png</string>
+	<key>Name</key>
+	<string>Crossroads</string>
+	<key>ContentIdentifier</key>
+	<string>com.adrianoosales.crossroads</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>Chapters</key>
+	<array>
+		<string>1Introduction.playgroundchapter</string>
+		<string>2Loops.playgroundchapter</string>
+		<string>3Conditionals.playgroundchapter</string>
+	</array>
+</dict>
+</plist>
